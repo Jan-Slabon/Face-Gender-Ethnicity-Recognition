@@ -1,0 +1,6 @@
+age_gender.csv
+cleaned_data.csv
+cleaned_dataset_gender.csv
+convolution/input/**
+trained_models
+convolution/conv_model_1
